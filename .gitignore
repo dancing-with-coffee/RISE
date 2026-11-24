@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+venv/
+.venv/
+
+# Datasets are provided by the user and are not part of the repository
+data/
+
+# Run outputs
+checkpoints/
+results/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
